@@ -1,10 +1,5 @@
 name: lavue-blog
-recipe: laravel
 config:
-  composer_version: '2.7.2'
-  via: nginx
-  webroot: public
-  database: postgres
 services:
   database:
     type: postgres:13

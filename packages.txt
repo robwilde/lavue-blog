@@ -1,0 +1,3 @@
+php-cli.x86_64                                       8.2.17-1.fc39                       @updates                        
+php-common.x86_64                                    8.2.17-1.fc39                       @updates                        
+php-xml.x86_64                                       8.2.17-1.fc39                       @updates                        
